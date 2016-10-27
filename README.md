@@ -7,12 +7,12 @@ To get started simply fork the repo and read the following file.
 ## [CONTRIBUTING](https://github.com/Aditya-Chowdhry/LearnAndShare/blob/master/CONTRIBUTING.md)  
 
 ##Web
-1. **Gur Raunaq Singh - [Tweet Sentiment Analizer](https://github.com/gurraunaqsingh/Tweet-Sentiment-Analizer)**
 ##Algorithms
 ##Mobile Phone Applications
 ##IOT
 ##Scripting  
 1. **Aditya Chowdhry - [file_organizer](https://github.com/Aditya-Chowdhry/file_organizer)**
+2. **Gur Raunaq Singh - [Tweet Sentiment Analizer](https://github.com/gurraunaqsingh/Tweet-Sentiment-Analizer)**
 
 ##Test pull request
 Created by rajdeep
