@@ -6,7 +6,8 @@ This readme file will contain list of students with their first github project l
 To get started simply fork the repo and read the following file.
 ## [CONTRIBUTING](https://github.com/Aditya-Chowdhry/LearnAndShare/blob/master/CONTRIBUTING.md)  
 
-##Web  
+##Web
+1. **Gur Raunaq Singh - [Tweet Sentiment Analizer](https://github.com/gurraunaqsingh/Tweet-Sentiment-Analizer)**
 ##Algorithms
 ##Mobile Phone Applications
 ##IOT
