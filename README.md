@@ -9,6 +9,8 @@ To get started simply fork the repo and read the following file.
 ##Web
 ##Algorithms
 ##Mobile Phone Applications
+1. **Gurpreet Singh - [CodeIt](https://github.com/GurpreetSK95/CodeIt)**
+
 ##IOT
 ##Scripting  
 1. **Aditya Chowdhry - [file_organizer](https://github.com/Aditya-Chowdhry/file_organizer)**
